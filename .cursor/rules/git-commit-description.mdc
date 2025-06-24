@@ -1,0 +1,6 @@
+---
+description: propose description when staging changes 
+globs: 
+alwaysApply: false
+---
+When I do "git add.", I'd like the assistant to offer a proposed description for my git commit, based on the changes made since the previous commit.
